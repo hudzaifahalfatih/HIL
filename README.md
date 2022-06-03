@@ -6,7 +6,7 @@ Muhammad Ali (13219017)
 Implementasi sistem hardware in the loop untuk kendali PID digital dari sistem kendali motor digital.
 
 - Upload program pada controller_PID_diffeq ke Arduino UNO 
-- Jalankan program plantv3.py pada terminal dengan path Python
+- Jalankan program plantv3.py pada terminal dengan path Python (pastikan directory sudah sesuai)
 
-python ~\plantv3.py
+python plantv3.py
 
